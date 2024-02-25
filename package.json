@@ -16,7 +16,9 @@
     "@react-navigation/native": "^6.1.12",
     "@react-navigation/stack": "^6.3.23",
     "axios": "^1.6.7",
+    "babel-plugin-module-resolver": "^5.0.0",
     "date-fns": "^3.3.1",
+    "eas-cli": "^7.3.0",
     "expo": "~50.0.7",
     "expo-blur": "^12.9.2",
     "expo-device": "^5.9.3",
@@ -34,6 +36,7 @@
     "react-native-pager-view": "6.2.3",
     "react-native-reanimated": "~3.6.2",
     "react-native-render-html": "^6.3.4",
+    "react-native-swipeout": "^2.3.6",
     "react-native-tab-view": "^3.5.2",
     "react-native-vector-icons": "^10.0.3"
   },
