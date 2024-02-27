@@ -25,7 +25,7 @@ import { dropNotificationTable, initDBNotification } from 'notifications/notific
 import { NotificationProvider } from 'notifications/NotificationContext';
 import { initializeNotificationSettings, setNotificationHandler } from 'notifications/NotificationManager';
 import AsyncStorage from '@react-native-async-storage/async-storage';
-
+ 
 const currentPlatform = Platform.OS;
 const Stack = createStackNavigator();
 
